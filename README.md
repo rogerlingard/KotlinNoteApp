@@ -46,6 +46,11 @@ Libraries / Frameworks:
 - Add Reminder Note child class of Note
 - Encryption of Note information
 
+# Project Navigation
+- src/main/kotlin holds the main file that you will use for your note program
+- src/test/kotlin holds you test functions for your kotlin program.
+- build.gradle.kts holds all the information for initializing some library that we use in our program.
+
 # What I Built
 - Main function with looping condition till user quit out of program
 - Note Data Class

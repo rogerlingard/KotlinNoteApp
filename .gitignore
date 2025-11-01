@@ -43,3 +43,18 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Gradle build output
+/build/
+.gradle/
+
+# OS files
+*.DS_Store
+Thumbs.db
+
+# Runtime files
+notes.json
